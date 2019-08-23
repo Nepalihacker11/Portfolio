@@ -1,4 +1,4 @@
-COMP257/ITEC657 Data Science Portfolio 
+COMP257/ITEC657 Data Science Portfolio/Bijit 
 ===
 
 This repository will hold your portfolio projects for this semester. You should customise this README.md file
